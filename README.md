@@ -1,2 +1,2 @@
 ## Project Name : Calculator App
-## Tools/Technologies Used : Springboot, Jenkins, Docker
+## Tools/Technologies Used : Springboot, HTML, Jenkins, Docker
